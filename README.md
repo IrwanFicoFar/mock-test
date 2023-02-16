@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - untuk page register : http://localhost:3000/register
 
 mohon maaf saya belum bisa menyelesaikan nya untuk saat ini, karena sepertinya saya sudah lupa cara-caranya, karena 2 bulan ini belum mengulang2 kembali.
-tapi setelah saya kirim tugas ini, akan saya coba kembali sampai selesai sesaui dengan tugas yang diberikan.
+tapi setelah saya kirim tugas ini, akan saya coba kembali dan mengulang materi-materi sebelumnya sampai selesai sesaui dengan hasil yang diinginkan.
 mohon maaf
 
 ## Learn More
