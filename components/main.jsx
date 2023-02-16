@@ -30,7 +30,7 @@ const MyMain = () => {
         </Grid>
       </Grid>
       <Grid xs className={style.main_list}>
-        <Link href="/login" className={style.do_list}>
+        <Link href="/list" className={style.do_list}>
           Go to Add List
         </Link>
       </Grid>
