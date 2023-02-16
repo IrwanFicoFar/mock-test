@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+.navbar {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+}
+.header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    /* background-color: white; */
+    border-radius: 30px;
+}
+
+.main {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    padding-top: 0.3px;
+    padding-bottom: 0.3px;
+}
+
+.answer {
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    justify-content: center;
+    text-align: left;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main_list {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+.do_list {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+.do_list :hover {    
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+.register {
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    border-radius: 30px;
+    margin: 5%;
+    padding: 5%;
+    
+}
+
+.form {
+    font-size: small;
+}
+
+.login {
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    border-radius: 30px;
+    margin: 5%;
+    padding: 5%;
+    
+}
+
+
+.footer {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 25px;
+}
+
